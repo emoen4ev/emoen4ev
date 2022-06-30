@@ -8,6 +8,10 @@
 <br>
   
 [Programming Basics](https://softuni.bg/certificates/details/124638/a4bd60cf)
+
+[Programming Fundamentals with Python](https://softuni.bg/certificates/details/131756/ed84e531)
+
+[Python Advanced](https://softuni.bg/certificates/details/135963/28f03b2d)
   
 </details>
 

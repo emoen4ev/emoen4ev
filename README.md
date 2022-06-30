@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying at SoftUni, Sofia, Bulgaria.
 - 📫 How to reach me: emoen4ev@gmail.com
 - 💞️ I’m looking to collaborate on ...
-<details open>
+<details>
 <summary>My Certificates:</summary>
 <br>
   

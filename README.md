@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emo.
 - 👀 I’m interested in everything related to Python and Artificial Intelligence.
 - 🌱 I’m currently studying at SoftUni, Sofia, Bulgaria.
-- 📫 How to reach me: emoen4ev@gmail.com, [LinkedIn](https://www.linkedin.com/in/emil-enchev-445436163/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emil-enchev-445436163/), emoen4ev@gmail.com
 - 💞️ Аnd I’m looking for my first internship or my first job in this field ...
 <details>
 <summary>My Certificates:</summary>

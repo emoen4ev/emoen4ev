@@ -14,6 +14,8 @@
 
 - [Stepik: "Поколение Python": курс для начинающих](https://stepik.org/cert/1360453)
   
+- [Stepik: "Поколение Python": курс для продвинутых](https://stepik.org/cert/1917396)
+  
 </details>
 
 <!---

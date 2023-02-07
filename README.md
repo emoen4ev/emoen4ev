@@ -6,11 +6,11 @@
 <details>
 <summary>My Certificates:</summary>
   
-- [Programming Basics](https://softuni.bg/certificates/details/124638/a4bd60cf)
+- [SoftUni: Programming Basics](https://softuni.bg/certificates/details/124638/a4bd60cf)
 
-- [Programming Fundamentals with Python](https://softuni.bg/certificates/details/131756/ed84e531)
+- [SoftUni: Programming Fundamentals with Python](https://softuni.bg/certificates/details/131756/ed84e531)
 
-- [Python Advanced](https://softuni.bg/certificates/details/135963/28f03b2d)
+- [SoftUni: Python Advanced](https://softuni.bg/certificates/details/135963/28f03b2d)
 
 - [Stepik: "Поколение Python": курс для начинающих](https://stepik.org/cert/1360453)
   

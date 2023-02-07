@@ -11,6 +11,8 @@
 - [Programming Fundamentals with Python](https://softuni.bg/certificates/details/131756/ed84e531)
 
 - [Python Advanced](https://softuni.bg/certificates/details/135963/28f03b2d)
+
+- [Stepik: "Поколение Python": курс для начинающих](https://stepik.org/cert/1360453)
   
 </details>
 
